@@ -1,4 +1,4 @@
-##Day 01: Learned Git and Github
+## Day 01: Learned Git and Github
 
 1. Downloaded git and node js.
 2. Accessed git tutorial - "git-it guide".
@@ -11,9 +11,9 @@
 9. clone - cloning a repo from ur own remote repo to ur local.
 10. Branches: a seperate workstream from the master branch.
 
-##Day 02: Started my Beginner Roadmap
+## Day 02: Started my Beginner Roadmap
 
-###Started and completed the following sections in the FCC site:
+### Started and completed the following sections in the FCC site:
 1. Say Hello to HTML Elements Complete
 2. Headline with the h2 Element Complete
 3. Inform with the Paragraph Element Complete
@@ -49,9 +49,9 @@
 33. Create a Set of Checkboxes Complete
 34. Check Radio Buttons and Checkboxes by Default
 
-##Day 03: Completed HTML and CSS Tracks
+## Day 03: Completed HTML and CSS Tracks
 
-###Things that I've completed:
+### Things that I've completed:
 1. Completed the HTML and CSS tracks in FCC site.
 2. Started the Bootstrap track on FCC.
 3. Got introduced to "container" classes and jumbotron in bootstrap.
