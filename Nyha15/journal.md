@@ -13,4 +13,20 @@
    * Use of lists to jot down about the happenings of his life.
    * Use of blockquote tag.  
    The reference [TributePage](https://codepen.io/nyha_15/pen/ZyzVGX)
+   
+   
+    ## Day_3- 
+  * Did the CSS flexbox and responsive web design principles challenges on FCC.
+  * Went through HTML and CSS FORMS.
+  *  Working on the survey form page.
+
+
+## Day_4- 
+    **Built a basic survey form.**
+    * Dealt with:
+      1.Checkboxes 2.Radio-buttons 3.Dropdown boxes 4.Labels
+    * To align a form using margin and flexbox.
+    * Went through the basics of CSS and flexbox.
+    * Went through some concepts of the applied visual design on FCC. Will need a briefing on animation timing and bezier curves.
+   The reference [SurveyForm](https://codepen.io/nyha_15/pen/YQPVJG)
  
