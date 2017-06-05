@@ -55,12 +55,8 @@
 1. Completed the HTML and CSS tracks in FCC site.
 2. Started the Bootstrap track on FCC.
 3. Got introduced to "container" classes and jumbotron in bootstrap.
-
-###Things that I've used as a reference:
 4. Got enrolled into Watch and Code website to kickstart JS. link :https://watchandcode.com/courses/
 5. Referenced CSS through the lectures of Colt Steele of Web Development Bootcamp from Udemy. link: https://www.udemy.com/the-web-developer-bootcamp/learn/v4/content
-
-###Things that I am struggling with:
 6. Need to get accquaninted to the various classes in Bootstrap.
 7. Need to get accquanited to the BOX MODEL in CSS more throughly.
 8. Need to get accquainted to the advanced selectors concepts in CSS.
