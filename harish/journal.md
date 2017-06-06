@@ -60,3 +60,15 @@
 6. Need to get accquaninted to the various classes in Bootstrap.
 7. Need to get accquanited to the BOX MODEL in CSS more throughly.
 8. Need to get accquainted to the advanced selectors concepts in CSS.
+
+## Day 04: Box Model
+
+### Things that I've completed:
+1. Started and completed the Box model.
+2. Introduced to padding,margin and border.
+3. Padding: the space between the element and the border.
+4. Border: the perimeter of the element.
+5. Margin: the space between the border and the other elements.
+6. Performed CSS using Advanced selectors like li > p, li p, li:hover etc.
+7. Constructed a Tic Tac Toe grid using CSS and HTML.
+8. Should start Bootstrap next.(in general not in FCC)
