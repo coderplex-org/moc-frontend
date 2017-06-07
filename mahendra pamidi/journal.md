@@ -15,3 +15,6 @@
 
 # DAY 3:
 - Completed basic javascript in free code camp curriculum
+
+# DAY 4:
+- Completed shopping page and technical documentation project in fcc curriculum
