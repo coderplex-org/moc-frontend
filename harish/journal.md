@@ -72,3 +72,11 @@
 6. Performed CSS using Advanced selectors like li > p, li p, li:hover etc.
 7. Constructed a Tic Tac Toe grid using CSS and HTML.
 8. Should start Bootstrap next.(in general not in FCC)
+
+## Day 06: Project
+
+### Things that I've completed:
+1. Completed my photo blog webpage.
+2. Started and completed a blog webpage.
+3. Finished few problems on Dash website.
+4. Created and uploaded my projects on the master branch.
