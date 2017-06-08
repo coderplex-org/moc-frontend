@@ -11,5 +11,8 @@ Day_2- Started off with the *Applied Responsive Web Design Projects*.
    * Figured out how to align a picture to the center with padding and an appropriate border.
    * Use of id's and classes and their properties.
    * Use of lists to jot down about the happenings of his life.
-   * Use of blockquote tag.    
+   * Use of blockquote tag. 
+
+
+   
  
