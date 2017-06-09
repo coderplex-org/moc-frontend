@@ -80,3 +80,9 @@
 2. Started and completed a blog webpage.
 3. Finished few problems on Dash website.
 4. Created and uploaded my projects on the master branch.
+
+## Day 07:Applied Design
+
+### Things that I've completed:
+1. Completed few challenges in the Applied design section of FCC-beta.
+2. Addressed The syncing problems  between github origin and my local.
