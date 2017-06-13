@@ -58,3 +58,34 @@
 - Use the flex Shorthand Property
 ### Things which I struggled to learn (But learnt anyway) :
 - Add Flex Superpowers to the Tweet Embed
+
+## Day-6
+### Was intoduced to:
+- Javascript
+
+### Things I learnt:
+- Declare JavaScript Variablescompleted
+
+- Storing Values with the Assignment Operatorcompleted
+
+- Initializing Variables with the Assignment Operatorcompleted
+
+- Understanding Uninitialized Variablescompleted
+
+- Understanding Case Sensitivity in Variablescompleted
+
+- Add Two Numbers with JavaScriptcompleted
+
+- Subtract One Number from Another with JavaScriptcompleted
+
+- Multiply Two Numbers with JavaScriptcompleted
+
+- Divide One Number by Another with JavaScriptcompleted
+
+- Increment a Number with JavaScriptcompleted
+
+- Decrement a Number with JavaScript
+### Things which I struggled to learn:
+- Shopping List
+- Stand in Line
+- Golf Code
