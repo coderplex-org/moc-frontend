@@ -37,4 +37,4 @@
 #### Basic JavaScript
 >- introduced to regukar expressions
 >- got familiar with object oriented and functional programming
->- done with basic algorithmic scripting
+>- done with the basic algorithmic scripting
