@@ -32,3 +32,9 @@
 #### Basic JavaScript
 >- worked on objects in javaScript
 >- javascript DataStructures
+
+## 14/06
+#### Basic JavaScript
+>- introduced to regukar expressions
+>- got familiar with object oriented and functional programming
+>- done with basic algorithmic scripting
