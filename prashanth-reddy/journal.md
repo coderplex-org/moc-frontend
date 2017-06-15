@@ -17,7 +17,7 @@ Downloaded node and completed the  following challenges from  [Git-it guide](htt
 1. Worked on an old project made few edits [Tribute Page](https://codepen.io/prashanthreddykallem/pen/eROaom)
 2. Built a [Survey page](https://codepen.io/prashanthreddykallem/full/LLPJgw/)
  
-#Date 15/06/2017:Working on JavaScript algorithms and regular expressions:
+# Date 15/06/2017:Working on JavaScript algorithms and regular expressions:
 1. Worked on Beginner Algorithm scripting challenges(All the challenges completed)
 2. Worked on few Intermediate scripting challenges
 3. Started learning about regular expressions
