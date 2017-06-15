@@ -1,15 +1,15 @@
-## Day-1:
+## 01/06: GIT
 * Learnt how to download Node and install Git.
 * Create a repository, create a file, save and commit the changes.
 * To push your local changes to the remote,pulling changes from the remote to your computer.
 * Fork a repository and clone it from the GitHub to work on locally and connect to the original repository.
 * Create and work with branches.
 
-## Day-2
+## 02/06:
 * [Basic HTML and HTML5](http://beta.freecodecamp.com/en/map)
 * [Basic CSS](http://beta.freecodecamp.com/en/map)
 
-## Day-3 
+## 05/06:
 ### Was introduced to:
 * Applied Visual Design
 
@@ -24,7 +24,7 @@
 * Use the CSS Transform Property skewX to Skew an Element Along the X-Axiscompleted
 * Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
 
-## Day-4
+## 06/06
 ### Was introduced to:
 * Applied Accessibility
 
@@ -34,7 +34,7 @@
 * Give Links Meaning by Using Descriptive Link Textcompleted
 
 
-## Day-5
+## 08/06:
 ### Was introduced to:
 * Responsive Web Design Principles
 
@@ -47,7 +47,7 @@
 ### Things which I struggled to learn (But learnt anyway) :
 * Creating a Media Querycompleted
 
-## Day-6
+## 11/06:
 ### Was introduced to:
 * CSS Flexbox
 
