@@ -27,7 +27,7 @@
    * To align a form using margin and flexbox.
    * Went through the basics of CSS and flexbox.
    * Went through some concepts of the applied visual design on FCC. Will need a briefing on animation timing and bezier curves.
-   The reference [SurveyForm](https://codepen.io/nyha_15/pen/YQPVJG)
+   The reference [SurveyForm](https://codepen.io/nyha_15/full/vZYWBe)
 
 
 ## 08/06/17 -
