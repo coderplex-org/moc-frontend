@@ -26,4 +26,5 @@
 
 # 14/06 
 - went through the info about es6 and started challenges in fcc curriculum
-
+# 15/06
+- completed es6 challenges in fcc curriculum
