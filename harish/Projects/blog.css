@@ -1,0 +1,19 @@
+div{
+    width: 45%;
+    border: 20px #bdc3c7 solid;
+    margin: auto;
+    padding: 15px;
+    font-family: source sans pro;
+    font-weight: 600;
+}
+.date{
+    color: #3498db;
+    letter-spacing: 2px;
+}
+.first-para{
+    border-left: 7px #bdc3c7 solid;
+    padding-left: 5px;
+}
+h2{
+    color:#2c3e50;
+}
