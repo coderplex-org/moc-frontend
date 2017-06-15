@@ -59,6 +59,8 @@
 ### Things which I struggled to learn (But learnt anyway) :
 * Add Flex Superpowers to the Tweet Embed
 
+
 ## 13/06:
 * Continued solving JS challenges from FCC curriculum
+
 
