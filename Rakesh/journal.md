@@ -64,25 +64,25 @@
 - Javascript
 
 ### Things I learnt:
-- Declare JavaScript Variablescompleted
+- Declare JavaScript Variables
 
-- Storing Values with the Assignment Operatorcompleted
+- Storing Values with the Assignment Operator
 
-- Initializing Variables with the Assignment Operatorcompleted
+- Initializing Variables with the Assignment Operator
 
-- Understanding Uninitialized Variablescompleted
+- Understanding Uninitialized Variables
 
-- Understanding Case Sensitivity in Variablescompleted
+- Understanding Case Sensitivity in Variables
 
-- Add Two Numbers with JavaScriptcompleted
+- Add Two Numbers with JavaScript
 
-- Subtract One Number from Another with JavaScriptcompleted
+- Subtract One Number from Another with JavaScript
 
-- Multiply Two Numbers with JavaScriptcompleted
+- Multiply Two Numbers with JavaScript
 
-- Divide One Number by Another with JavaScriptcompleted
+- Divide One Number by Another with JavaScript
 
-- Increment a Number with JavaScriptcompleted
+- Increment a Number with JavaScript
 
 - Decrement a Number with JavaScript
 ### Things which I struggled to learn:
