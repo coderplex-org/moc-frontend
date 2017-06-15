@@ -5,7 +5,7 @@
 # learning git and github
 =======
 
-# DAY 1: 
+# 1/06: 
 >>>>>>> 3755845e7febf9d5899d0262fd0a20848f38d650
 - Installed node.js& git
 - creating repo in git
@@ -19,7 +19,7 @@
 :clock10:
 =======
 
-# DAY 2:
+# 2/06:
 >>>>>>> 3755845e7febf9d5899d0262fd0a20848f38d650
 - Went through HTML/CSS references provided in curriculum
 - learnt flexbox properties for css
@@ -46,9 +46,19 @@
 >>>>>>> e904351e83c2e8734f8a12c51d272fe1a5563113
 =======
 
-# DAY 3:
+# 5/06:
 - Completed basic javascript in free code camp curriculum
 
-# DAY 4:
-- Completed shopping page and technical documentation project in fcc curriculum
+# 6/06:
+- Completed shopping page in fcc curriculum
 >>>>>>> 3755845e7febf9d5899d0262fd0a20848f38d650
+
+# 7/06
+- Completed technical documentation page in fcc curriculum
+
+# 12/06
+- Completed challenges of basic java script in fcc curriculum
+
+# 14/06 
+- went through the info about es6 and started challenges in fcc curriculum
+
