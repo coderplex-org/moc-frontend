@@ -1,5 +1,5 @@
 
-#  1/6 01 : Learnt git and github  
+#  1/6  : Learnt git and github  
 Downloaded node and completed the  following challenges from  [Git-it guide](http://jlord.us/git-it/index.html)
 1.  [Get git](http://jlord.us/git-it/challenges/get_git.html)
 2.  [Create Repository ](http://jlord.us/git-it/challenges/repository.html)
@@ -22,7 +22,7 @@ Downloaded node and completed the  following challenges from  [Git-it guide](htt
 2. Worked on few Intermediate scripting challenges
 3. Started learning about regular expressions
  
-#21/6 Working on Javascript algorithms and Eloquent JavaScript:
+# 21/6 Working on Javascript algorithms and Eloquent JavaScript:
 1. Worked on Intermediate JS problems. 
 2. Went through the Functions and Data Structures in Eloquent JavaScript.           
             
